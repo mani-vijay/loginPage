@@ -16,7 +16,7 @@ const LoginComponent = () => {
         <Link to ="/login">
         <div className="login-container">
             <div className="login-card">
-                <h2>Login</h2>
+                <h2>jaipraksh login </h2>
                 <form onSubmit={handleSubmit}>
                     <div className="input-group">
                         <label htmlFor="username">Username:</label>
